@@ -1,1 +1,3 @@
-
+name: email_triage_env
+version: "0.1.0"
+description: AI Email Triage Environment
