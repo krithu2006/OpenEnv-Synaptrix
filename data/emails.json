@@ -1,1 +1,32 @@
-
+[
+  {
+    "email_id": "1",
+    "subject": "Meeting Tomorrow",
+    "body": "Please attend the meeting at 10 AM",
+    "sender": "boss@company.com",
+    "timestamp": "2026-04-01",
+    "category": "Work",
+    "priority": "High",
+    "tone": "Formal"
+  },
+  {
+    "email_id": "2",
+    "subject": "Huge Sale Offer!!!",
+    "body": "Buy now and get 50% discount",
+    "sender": "ads@spam.com",
+    "timestamp": "2026-04-01",
+    "category": "Spam",
+    "priority": "Low",
+    "tone": "Casual"
+  },
+  {
+    "email_id": "3",
+    "subject": "Let's catch up",
+    "body": "Hey, long time no see! Let's meet soon.",
+    "sender": "friend@gmail.com",
+    "timestamp": "2026-04-01",
+    "category": "Personal",
+    "priority": "Medium",
+    "tone": "Casual"
+  }
+]
