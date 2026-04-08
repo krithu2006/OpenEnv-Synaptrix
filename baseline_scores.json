@@ -1,0 +1,24 @@
+{
+  "driver": "reference-policy",
+  "average_score": 1.0,
+  "tasks": [
+    {
+      "task_id": "easy-spam-ignore",
+      "difficulty": "easy",
+      "score": 1.0,
+      "driver": "reference-policy"
+    },
+    {
+      "task_id": "medium-reply-scheduling",
+      "difficulty": "medium",
+      "score": 1.0,
+      "driver": "reference-policy"
+    },
+    {
+      "task_id": "hard-security-escalation",
+      "difficulty": "hard",
+      "score": 1.0,
+      "driver": "reference-policy"
+    }
+  ]
+}

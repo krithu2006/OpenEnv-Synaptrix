@@ -1,0 +1,8 @@
+spec_version: 1
+name: synaptrix-mailos-openenv
+version: 0.1.0
+description: Multi-agent email triage environment with grading, rewards, and a Synaptrix UI.
+type: space
+runtime: fastapi
+app: email_intelligence.api:app
+port: 7860
