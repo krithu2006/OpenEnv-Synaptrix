@@ -1,3 +1,12 @@
+---
+title: Synaptrix MailOS OpenEnv
+emoji: 📧
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+---
+
 # Synaptrix MailOS OpenEnv
 
 Synaptrix MailOS is an AI-powered multi-agent email decision intelligence system that classifies emails, detects urgency and risk, automates Gmail-style routing, generates tasks and reply drafts, and exposes an OpenEnv-compatible benchmark with graded tasks and reward-based evaluation.
